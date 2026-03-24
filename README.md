@@ -1,7 +1,6 @@
 # Credit_Risk_Classification using Machine Learning
 End-to-end credit risk classification project using Logistic Regression, Random Forest, and XGBoost. Includes data cleaning, feature engineering, handling imbalanced data, model evaluation using AUC and recall, threshold tuning based on business cost, and feature importance analysis aligned with real-world lending behavior.
-
-This project is part of a structured transition into data-driven financial risk analysis.
+>This project is part of a structured transition into data-driven financial risk analysis.
 ## Overview
 This project focuses on predicting whether a customer will default within the next 2 years using historical financial and behavioral data. The dataset is highly imbalanced, making it critical to focus on detecting defaulters effectively rather than relying on accuracy alone.
 ## Objective
