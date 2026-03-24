@@ -63,5 +63,3 @@ These align with real-world credit risk assessment practices.
 - Hyperparameter tuning for XGBoost  
 - Cross-validation for more robust evaluation  
 - Advanced interpretability techniques (e.g., SHAP)  
-## 👤 Author
-This project is part of a structured transition into data-driven financial risk analysis.
